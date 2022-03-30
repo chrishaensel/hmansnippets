@@ -1,6 +1,6 @@
 /**
  * @author Christian Hänsel
- * 
+ *  
  * Gets the HTML node count of the page
  */
 

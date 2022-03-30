@@ -1,6 +1,6 @@
 /**
  * @author Christian Hänsel
- * 
+ *  
  * Get the dateModified value of JSON-LD markup
  */
 let dateModified;

@@ -1,6 +1,6 @@
 /**
  * @author Christian Hänsel
- * 
+ *  
  * Get the datePublished value of JSON-LD markup
  */
 let datePublished

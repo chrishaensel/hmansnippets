@@ -1,5 +1,5 @@
 /**
- * @author Christian Hänsel
+ * @author Christian Hänsel 
  * 
  * Gets the hreflang links from the <head> and display them in the extended table
  */

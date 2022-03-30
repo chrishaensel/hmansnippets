@@ -1,5 +1,5 @@
 /**
- * @author Christian Hänsel
+ * @author Christian Hänsel 
  * 
  * Gets the ampHtml tag from the <head>
  */

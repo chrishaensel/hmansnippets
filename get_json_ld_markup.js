@@ -1,5 +1,6 @@
 /**
  * @author Christian Hänsel
+ * 
  * Gets the JSON-LD markup of the page and puts it into an extended table
  */
 var unique_json_types = [];
